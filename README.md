@@ -1,5 +1,5 @@
 <h1 align="center">Sabari Priyan</h1>
-<h3 align="center">Aspiring Data Scientist | SQL • Python • Power BI • ML</h3>
+<h3 align="center">Aspiring Data Scientist | SQL | Python | Power BI | ML</h3>
 
 ---
 
