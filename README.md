@@ -103,15 +103,6 @@
 
 ---
 
-## 🚀 Current Focus
-
-- Advanced SQL & Business Analytics  
-- End-to-End Data Analytics Projects  
-- Machine Learning Model Deployment  
-- Building Strong Portfolio for Data Roles  
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabari-priyan-p-586767361)
