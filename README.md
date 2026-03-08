@@ -1,3 +1,7 @@
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/sabaripriyan2004/sabaripriyan2004/blob/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">Sabari Priyan</h1>
 <h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | ML</h3>
 
@@ -107,12 +111,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabari-priyan-p-586767361)
 ---
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/sabaripriyan2004/sabaripriyan2004/blob/output/github-contribution-grid-snake.svg)
-
-
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabaripriyan2004@gmail.com)
 
