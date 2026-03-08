@@ -3,15 +3,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://github.com/sabaripriyan2004/sabaripriyan2004/blob/output/github-snake.svg">
-</p>
-
-<p align="center">
 <img src="https://github.com/sabaripriyan2004/sabaripriyan2004/blob/output/github-snake-dark.svg">
-</p>
-
-<p align="center">
-<img src="https://github.com/sabaripriyan2004/sabaripriyan2004/blob/output/github-snake-neon.svg">
 </p>
 
 <h1 align="center">Sabari Priyan</h1>
